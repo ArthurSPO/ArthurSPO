@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurspo&label=Profile%20views&color=0e75b6&style=flat" alt="arthurspo" /> </p>
 
-- 🌱 I’m currently learning **Python, Vue.JS, Angular, React Native.**
+- 🌱 I’m currently learning **Python, PHP, Vue.JS, Angular.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArthurSPO](https://github.com/ArthurSPO)
 
